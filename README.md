@@ -1,2 +1,2 @@
-# Dune-Dashboard
+# project-sandstorm
 Project Sandstorm
